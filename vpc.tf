@@ -1,5 +1,5 @@
 variable "project_id" {
-  description = "project id"
+  description = "devops-upskill-max"
 }
 
 variable "region" {
